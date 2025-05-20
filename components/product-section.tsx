@@ -44,9 +44,9 @@ export default function ProductSection() {
     },
     {
       id: "zenith",
-      name: "ZENIT PHARMACEUTICALS",
+      name: "ZENITH PHARMACEUTICALS",
       description:
-        "Zenit Pharmaceuticals adalah produsen obat-obatan inovatif untuk berbagai kebutuhan kesehatan. Produk-produk mereka meliputi kardiovaskular, analgesik, antibiotik, dan berbagai obat lainnya.",
+        "Zenith Pharmaceuticals adalah produsen obat-obatan inovatif untuk berbagai kebutuhan kesehatan. Produk-produk mereka meliputi kardiovaskular, analgesik, antibiotik, dan berbagai obat lainnya.",
       imageUrl: "/images/products/zenith.jpeg",
     },
     {
@@ -65,9 +65,9 @@ export default function ProductSection() {
     },
     {
       id: "kalbe",
-      name: "KALBE",
+      name: "HEXPHARM JAYA",
       description:
-        "PT Kalbe Farma adalah salah satu perusahaan farmasi terbesar di Indonesia yang memproduksi berbagai jenis obat berkualitas tinggi. Produk-produk mereka meliputi Divoltar, Neuralgin, Danasone, dan berbagai obat lainnya.",
+        "Hexpharm Jaya adalah salah satu perusahaan farmasi terbesar di Indonesia yang memproduksi berbagai jenis obat berkualitas tinggi. Produk-produk mereka meliputi Divoltar, Neuralgin, Danasone, dan berbagai obat lainnya.",
       imageUrl: "/images/products/kalbe.jpeg",
     },
     {
